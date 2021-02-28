@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER SuperManIT App Developer Ltd
+# MAINTAINER SuperManIT App Developer Ltd
 
 ENV PYTHONUNBUFFERED 1
 
